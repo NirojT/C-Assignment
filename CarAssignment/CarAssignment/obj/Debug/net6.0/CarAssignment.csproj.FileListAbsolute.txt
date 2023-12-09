@@ -1,0 +1,14 @@
+C:\Users\tmgni\Desktop\CsharpRests\CarAssignment\CarAssignment\bin\Debug\net6.0\CarAssignment.exe
+C:\Users\tmgni\Desktop\CsharpRests\CarAssignment\CarAssignment\bin\Debug\net6.0\CarAssignment.deps.json
+C:\Users\tmgni\Desktop\CsharpRests\CarAssignment\CarAssignment\bin\Debug\net6.0\CarAssignment.runtimeconfig.json
+C:\Users\tmgni\Desktop\CsharpRests\CarAssignment\CarAssignment\bin\Debug\net6.0\CarAssignment.dll
+C:\Users\tmgni\Desktop\CsharpRests\CarAssignment\CarAssignment\bin\Debug\net6.0\CarAssignment.pdb
+C:\Users\tmgni\Desktop\CsharpRests\CarAssignment\CarAssignment\obj\Debug\net6.0\CarAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmgni\Desktop\CsharpRests\CarAssignment\CarAssignment\obj\Debug\net6.0\CarAssignment.AssemblyInfoInputs.cache
+C:\Users\tmgni\Desktop\CsharpRests\CarAssignment\CarAssignment\obj\Debug\net6.0\CarAssignment.AssemblyInfo.cs
+C:\Users\tmgni\Desktop\CsharpRests\CarAssignment\CarAssignment\obj\Debug\net6.0\CarAssignment.csproj.CoreCompileInputs.cache
+C:\Users\tmgni\Desktop\CsharpRests\CarAssignment\CarAssignment\obj\Debug\net6.0\CarAssignment.dll
+C:\Users\tmgni\Desktop\CsharpRests\CarAssignment\CarAssignment\obj\Debug\net6.0\refint\CarAssignment.dll
+C:\Users\tmgni\Desktop\CsharpRests\CarAssignment\CarAssignment\obj\Debug\net6.0\CarAssignment.pdb
+C:\Users\tmgni\Desktop\CsharpRests\CarAssignment\CarAssignment\obj\Debug\net6.0\CarAssignment.genruntimeconfig.cache
+C:\Users\tmgni\Desktop\CsharpRests\CarAssignment\CarAssignment\obj\Debug\net6.0\ref\CarAssignment.dll
